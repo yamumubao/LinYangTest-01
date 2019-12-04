@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinYangTest-01", "LinYangTest-01\LinYangTest-01.csproj", "{F2E8B132-24E6-429E-B108-6BFC1FF2ECB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2E8B132-24E6-429E-B108-6BFC1FF2ECB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E8B132-24E6-429E-B108-6BFC1FF2ECB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E8B132-24E6-429E-B108-6BFC1FF2ECB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E8B132-24E6-429E-B108-6BFC1FF2ECB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8082771-54A5-41C2-A380-EC9ED11B3B6A}
+	EndGlobalSection
+EndGlobal
